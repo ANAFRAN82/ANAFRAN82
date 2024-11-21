@@ -42,12 +42,11 @@
   
 <div align="center"> 
    <a href="https://github.com/ANAFRAN82">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TU-USUARIO-GITHUB&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ANAFRAN82&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
   </a>
   <a href="https://github.com/ANAFRAN82">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-GITHUB&theme=react&line_height=40&hide=css"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANAFRAN82&theme=react&line_height=40&hide=css"/>
   </a>
 </div>
-
 
 <br/>
