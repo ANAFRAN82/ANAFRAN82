@@ -41,12 +41,13 @@
 <h2 align="center"> Estadísticas de GitHub 📈 </h2>
   
 <div align="center"> 
-   <a href="">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+   <a href="https://github.com/ANAFRAN82">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TU-USUARIO-GITHUB&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
   </a>
-  <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
+  <a href="https://github.com/ANAFRAN82">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-GITHUB&theme=react&line_height=40&hide=css"/>
   </a>
 </div>
+
 
 <br/>
