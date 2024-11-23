@@ -1,9 +1,9 @@
-# ¡Hola! Soy **Ana Cristina**  
-<img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />  
-
+# ¡Hola! Soy **Ana Cristina** 
 ---
 
-### 👩‍💻 Acerca de mí:  
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+<h2 align="center"> 👩‍💻 Acerca de mí:</h2>  
 - 🎓 **Estudiante de Ingeniería en Sistemas Computacionales.**  
 - 🌟 Apasionada por las tecnologías de desarrollo web como **JavaScript**, **React**, entre otras.  
 - 🎵 Disfruto escuchar música y leer libros 📚 en mi tiempo libre.  
@@ -13,7 +13,7 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### 🎧 Actualmente en Spotify:  
+<h2 align="center">🎧 Actualmente en Spotify:</h2>
 <p align="center">
   <a href="https://open.spotify.com/user/11153360645">
     <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify">
@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠 Lenguajes y Herramientas:  
+<h2 align="center">🛠 Lenguajes y Herramientas:  </h2>
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
