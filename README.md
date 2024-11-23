@@ -3,8 +3,6 @@
 
 ---
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 ### 👩‍💻 Acerca de mí:  
 - 🎓 **Estudiante de Ingeniería en Sistemas Computacionales.**  
 - 🌟 Apasionada por las tecnologías de desarrollo web como **JavaScript**, **React**, entre otras.  
