@@ -13,12 +13,16 @@
 
 ---
 
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 ### 🎧 Actualmente en Spotify:  
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+<p align="center">
+  <a href="https://open.spotify.com/user/11153360645">
+    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify">
+  </a>
+</p>
 
 ---
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### 🛠 Lenguajes y Herramientas:  
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
@@ -46,7 +50,7 @@
 ---
 
 ### 📬 ¡Conéctate conmigo!  
-[![LinkedIn](https://img.shields.io/badge/-AnaCristina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anacristina)](https://www.linkedin.com/in/anacristina)
+[![LinkedIn](https://img.shields.io/badge/-AnaCristina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anacristina)](https://www.linkedin.com/in/anacristina)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/ANAFRAN82)](https://github.com/ANAFRAN82)
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ANAFRAN82&repo=ANAFRAN82&countColorcountColor&countColor=%237B1E7B"/>
