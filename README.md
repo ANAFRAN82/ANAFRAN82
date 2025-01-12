@@ -46,10 +46,4 @@
   </a>
 </div>
 
----
 
-### 📬 ¡Conéctate conmigo!  
-[![LinkedIn](https://img.shields.io/badge/-AnaCristina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anacristina)](https://www.linkedin.com/in/anacristina)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/ANAFRAN82)](https://github.com/ANAFRAN82)
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ANAFRAN82&repo=ANAFRAN82&countColorcountColor&countColor=%237B1E7B"/>
