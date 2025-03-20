@@ -32,12 +32,3 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ANAFRAN82&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-  </a>
-  <a href="https://github.com/ANAFRAN82">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANAFRAN82&theme=react&line_height=40&hide=css"/>
-  </a>
-</div>
-
-
