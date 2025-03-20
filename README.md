@@ -1,4 +1,4 @@
-# ¡Hola! Soy **Ana Cristina Franco Gonzalez**  
+# ¡Hola! Soy **Ana Cristina Franco**  
 
 ---
 
@@ -33,12 +33,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
----
-
-<h2 align="center">✨ Estadísticas de GitHub 📈</h2>
-
-<div align="center"> 
-   <a href="https://github.com/ANAFRAN82">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ANAFRAN82&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
   </a>
   <a href="https://github.com/ANAFRAN82">
