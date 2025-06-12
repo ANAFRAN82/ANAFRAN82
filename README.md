@@ -1,4 +1,4 @@
-# ¡Hola! Soy **Ana Franco**  
+# ¡Hola Soy **Ana Franco**!
 
 ---
 
@@ -6,7 +6,7 @@
 
 ### 👩‍💻 Acerca de mí:  
 - 🎓 **Estudiante de Ingeniería en Sistemas Computacionales.**  
-- 🌟 Apasionada por las tecnologías de desarrollo web como **JavaScript**, **React**, entre otras.  
+- 🌟 Apasionada por las tecnologías de desarrollo web como  **React**, entre otras.  
 - 🎵 Disfruto escuchar música y leer libros 📚 en mi tiempo libre.  
 - 🚀 Siempre lista para nuevos retos y aprender algo nuevo.  
 
