@@ -1,4 +1,4 @@
-# ¡Hola Soy **Anita Franco**!
+# ¡Hola Soy **Anita Franco 🤍**!
 
 ---
 
