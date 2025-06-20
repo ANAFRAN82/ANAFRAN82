@@ -6,7 +6,7 @@
 
 ### 👩‍💻 Acerca de mí:  
 - 🎓 **Estudiante de Ingeniería en Sistemas Computacionales.**  
-- 🌟 Apasionada por las tecnologías de desarrollo web como  **React**, **Javascript**, **HTML**, entre otras.  
+- 🌟 Apasionada por las tecnologías de desarrollo web como  **React**, **Javascript**, **HTML**' **CSS**, entre otras.  
 - 🎵 Disfruto escuchar música y leer libros 📚 en mi tiempo libre.  
 - 🚀 Siempre lista para nuevos retos y aprender algo nuevo.  
 
